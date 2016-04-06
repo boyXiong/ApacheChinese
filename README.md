@@ -1,0 +1,2 @@
+# ApacheChinese
+Apache Chinese Note
